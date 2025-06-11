@@ -1,0 +1,12 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    class="button__icon"
+    fill="var(--container-color)"
+  >
+    <path d="M2 22l22-10L2 2l4 7 16 3-16 3 4 7z" fill="var(--container-color)"/>
+    <path d="M2 22l22-10L2 2l4 7 16 3-16 3 4 7z" fill="var(--container-color)"/>
+   
+  </svg>
