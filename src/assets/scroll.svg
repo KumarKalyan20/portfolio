@@ -1,13 +1,36 @@
-<svg 
-  xmlns="http://www.w3.org/2000/svg" 
-  width="24" 
-  height="24" 
-  viewBox="0 0 24 24" 
-  fill="none" 
-  stroke="currentColor" 
-  stroke-width="2" 
-  stroke-linecap="round" 
-  stroke-linejoin="round"
->
-  <polyline points="6 9 12 15 18 9" />
-</svg>
+    <svg
+              width="32px"
+              height="32px"
+              class="home__scroll-mouse"
+              vewBox="0 0 247 390"
+              version="1.1"
+              xmlns="https://www.w3.org/2000/svg"
+              xmlns:xlink="https://www.w3.org/1999/xlink"
+              style="
+                file-rule: evenodd;
+                clip-rule: evenodd;
+                stroke-linecap: round;
+                stroke-linejoin: round;
+                stroke-miterlimit: 1.5;
+                "
+                >
+                <path
+                  class="wheel"
+                  d="M123.359,79.77510,72.843"
+                  style="
+                    fill: none;
+                    stroke: #000;
+                    stroke-width: 20px;
+                    "
+                ></path>
+                <path 
+                  id="mouse"
+                  d="M236.717,123.359c0,-62.565 -50.794, -113.359 -113.359, -113.359c-62.565,0 -113.359,50.794 -113.359,
+                  113.35910,143.237c0,62.565 50.794,113.359 113.359,113.359c62.564,0 113.358, -113.35910,-143.237Z"
+                  style="
+                    fill: none;
+                    stroke: #000;
+                    stroke-width: 20px;
+                    "
+                ></path>
+                </svg>
