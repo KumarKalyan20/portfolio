@@ -22,22 +22,15 @@
 } 
 
 .skills__box {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr); /* two equal columns */
-  gap: 1.5rem; /* space between rows and columns */
+    display: flex;
+    justify-content: center;
+    column-gap: 2.5rem; 
+    
 }
 
 .skills__group {
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem; 
-   row-gap: 1rem; /* vertical space between each skill */
-}
-
-
-/* .skills__group {
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    align-items: flex-start;
     row-gap: 1rem;
 }
 
@@ -58,4 +51,6 @@
 }
 .skills__level {
     font-size: var(--tiny-font-size);
-}  */
+}  
+
+
